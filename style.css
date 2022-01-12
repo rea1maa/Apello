@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: url(./Image.png) no-repeat center center/cover;
+    height: 100vh;
+}
+.navbar{
+    text-align: center;
+}
+.navbar p{
+    color: white;
+}
+.navbar ul{
+    display: flex;
+    width: 40px;
+    list-style: none;
+    color:white;
+} 
+.navbar ul li{
+    margin-left: 20px;
+}
+.port{
+    margin-left: 15px;
+} 
+.pro{
+    margin-left: 15px;
+} 
+.t{
+    margin-left: 15px;
+} 
+.re{
+    margin-left: 15px;
+} 
+header h1{
+    color: white;
+    margin-top: 100px;
+}
+header p{
+    color: white;
+    margin-top: 30px;
+}
+section{
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 0px;
+    height: 360px;
+}
+.les{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #f3f3f3;
+    margin-top: -10rem;
+    color: black;
+    background-color: #fff;
+    width: 145vh;
+    padding: 5rem 0 0 0;
+    margin-left: 14%;
+}
+.hardd{
+    text-align: center;
+    margin-top: 5rem;
+}
+.hardd1{
+    margin-top: 2rem; 
+    text-align: center;
+}
+.card2{
+    display: flex;
+    justify-content: center;
+}
+.card2 a{
+    text-decoration: none;
+    list-style: none;
+    align-items: none;
+    padding-left: 7rem;
+    margin-right: 80px; 
+}
+.image{
+    background: url(./2rasm.svg);
+    width: 100%;
+    height: 100vh;
+}
+.tepa h1{
+color: #fff;
+/* text-align: center; */
+padding-top: 10rem ;
+padding-left: 39%;
+}
+.vcem{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    color: #fff;
+}
+.vcem p{ 
+    padding-top: 1rem;
+}
+.cardcha{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -200px;
+}
+.cardch2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+.cardcha h1{
+    margin-top: 2rem;
+    font-size: 25px;
+}
+.cardcha p{ 
+    margin-top: 2rem; padding-bottom: 2rem;}
+.cardch2 h1{
+    margin-top: 2rem;
+    font-size: 25px;}.cardch2 p{ margin-top: 2rem; padding-bottom: 2rem;}
+    .therediv{
+        display: flex;
+        justify-content: space-around;
+        font-size: 15px;
+    }
+    .therediv h1{
+        font-size: 20px;
+    }
+    .therediv img{
+        margin-left: 17rem;
+    }
+    .one{
+        border: 1px solid rgb(231, 231, 231);
+        padding: 10px 2rem;
+    }
+    .two{
+        border: 1px solid rgb(231, 231, 231);
+        padding: 10px 2rem;
+    }
+    .there{
+        border: 1px solid rgb(231, 231, 231);
+        padding: 10px 2rem;
+    }
+    .therediv2{
+        display: flex;
+        justify-content: space-around;
+        font-size: 15px;
+        margin-top: 2rem;
+        margin-bottom: 5rem;
+    }
+    .therediv2 h1{
+        font-size: 20px;
+    }
+    .therediv2 img{
+        margin-left: 16rem;
+    }
+    .one1{
+        border: 1px solid rgb(231, 231, 231);
+        padding: 10px 25px;
+    }
+    .two2{
+        border: 1px solid rgb(231, 231, 231);
+        padding: 10px 38px;
+    }
+    .there3{
+        border: 1px solid rgb(231, 231, 231);
+        padding: 10px 2rem;
+    }
+    .bagroundfile{
+        background: url(./bg3.png) no-repeat center center/cover;
+        width: 100%;
+        height: 100vh;    
+    }
+.commands{
+    margin-left: 10rem;
+    margin-top: 20rem;
+    margin-bottom: 20rem;
+}
+.resources{
+    text-align: center;
+}
+.rraasm{
+    background: url(./Image.png);
+ width: 100%;
+ height: 150vh;
+}
+.chizu{
+ display: flex;
+ color: #fff;
+ padding: 10rem 0 5rem 0 ;
+ justify-content: space-between;
+  border-bottom: 1px solid #fff;
+}
+.ikki{
+ display: flex;
+}
+.linkla{
+ color: #fff;
+}
+.link2{
+ color: #fff;
+padding: 0 0 0 -10rem;
+}
+.link3{
+ color: #fff;
+}
+.linkvcem{
+ display: flex;
+ justify-content: space-between;
+ margin-top: 5rem;
+}
+.linkvcem h1{
+ padding: 2rem 0;
+}
+.linkvcem a{
+ color: #fff;
+}
+.end{
+ border-top: 1px solid #fff;
+ 
+ justify-content: space-around;
+ display: flex;
+ color: #fff;
+}
+.end1{
+ display: flex;
+ color: #fff;
+}
+ 
